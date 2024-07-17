@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://crakd.me"
+baseurl: "https://photos.crakd.me"
 #baseurl: "https://crakdme.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
